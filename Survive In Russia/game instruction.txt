@@ -34,4 +34,3 @@ The happiness scale shows how much happiness you get for purchasing an item.
 
 In this menu you can choose between a marketplace (buying items, which increase happiness).
 이 메뉴에서 당신은 상점(물건을 구매하여 행복도를 올리기)과 카지노(운을 시험해보기) 중에 하나를 선택할 수 있습니다.
-
