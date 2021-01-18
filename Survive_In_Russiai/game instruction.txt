@@ -1,0 +1,37 @@
+Clicking on your wallet, you'll get to the item shopping menu (happiness enhancement) and the casino menu (a chance to win money).
+당신의 지갑을 클릭해서, 물건 사기 메뉴(행복도 올리기)와 카지노 메뉴(돈을 따낼 기회)를 선택할 수 있습니다.
+
+Clicking on the refrigerator, you will get to the menu of purchases of food and the menu of the refrigerator (eat food and replenish health).
+냉장고를 클릭해서, 음식 구매 메뉴와 냉장고 메뉴를 선택할 수 있습니다(음식을 먹고 건강 회복하기).
+
+To play at the casino, click on the 'Bet' button.
+'걸기' 버튼을 눌러서 카지노에서 판을 벌리십시오.
+
+Since the start, your health has been reduced by 20% due to your age.
+시작 이후, 당신은 나이 때문에 건강이 20% 깎입니다.
+당신의 나이 때문에 건강이 20% 감소한 채로 시작합니다.
+
+In this menu you can choose between a refrigerator(eating food) and by the shop(buying food).
+이 메뉴에서 당신은 냉장고(음식을 섭취하기)와 상점(음식을 구매하기) 중에 하나를 선택할 수 있습니다.
+
+To eat food, click on the 'Eat' button.
+'먹기' 버튼을 눌러서 음식을 섭취하십시오.
+
+To throw away food, click on the 'Throw' button.
+'버리기' 버튼을 눌러서 음식을 버리십시오.
+
+The health scale shows how much you can replenish your health.
+건강 척도는 당신의 건강을 얼마나 다시 채울 수 있는지 보여줍니다.
+
+Do not forget to go to the refrigerator to eat it!
+냉장고에서 음식을 먹어야 한다는 걸 잊지 마십시오!
+
+The expiration date scale indicates how many gaming days the item will be stored in the refrigerator.
+유통 기한 척도는 게임 내 시간으로 냉장고 속에 음식이 얼마나 오래 보관되는지 보여줍니다.
+
+The happiness scale shows how much happiness you get for purchasing an item.
+행복 척도는 물건 구매를 통해 행복을 어느정도 얻을 수 있는지 보여줍니다.
+
+In this menu you can choose between a marketplace (buying items, which increase happiness).
+이 메뉴에서 당신은 상점(물건을 구매하여 행복도를 올리기)과 카지노(운을 시험해보기) 중에 하나를 선택할 수 있습니다.
+
