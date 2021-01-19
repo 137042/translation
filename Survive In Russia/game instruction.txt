@@ -30,3 +30,15 @@ The happiness scale shows how much happiness you get for purchasing an item.
 
 In this menu you can choose between a marketplace (buying items, which increase happiness).
 이 메뉴에서 당신은 상점(물건을 구매하여 행복도를 올리기)과 카지노(운을 시험해보기) 중에 하나를 선택할 수 있습니다.
+
+Due to numerous requests from our community, the Chinese translation is being started.
+우리의 커뮤니티의 무수한 요청에 따라서 중국어 번역이 시작되었습니다.
+
+Complete redesign of the main menu.
+메인 메뉴 재디자인을 완성했습니다.
+
+New tabs "news" and "achievements" added.
+새로운 탭 "소식"과 "업적"을 추가했습니다.
+
+The salary system and the pricing policy have been reworked.
+급여 시스템과 가격 정책이 재구축되었습니다. 
