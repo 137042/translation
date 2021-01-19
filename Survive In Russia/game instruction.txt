@@ -7,10 +7,6 @@ Clicking on the refrigerator, you will get to the menu of purchases of food and 
 To play at the casino, click on the 'Bet' button.
 '걸기' 버튼을 눌러서 카지노에서 판을 벌리십시오.
 
-Since the start, your health has been reduced by 20% due to your age.
-시작 이후, 당신은 나이 때문에 건강이 20% 깎입니다.
-당신의 나이 때문에 건강이 20% 감소한 채로 시작합니다.
-
 In this menu you can choose between a refrigerator(eating food) and by the shop(buying food).
 이 메뉴에서 당신은 냉장고(음식을 섭취하기)와 상점(음식을 구매하기) 중에 하나를 선택할 수 있습니다.
 
