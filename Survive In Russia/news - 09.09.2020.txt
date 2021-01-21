@@ -1,0 +1,39 @@
+NEWS
+소식
+
+Samsonov A.V. 09.09.2020
+샘소노프 A.V. 2020.09.09.
+//이하 스토리라인에서 확인할 수 있는 샘소노프(사업가) 줄거리
+
+LIST OF CHANGES
+변경 목록
+
+A new character has been added to the game
+게임에 새로운 캐릭터가 추가되었습니다.
+
+Alexander was born in a family of a successful businessman.
+알렉산더는 성공한 사업가의 가정에서 태어났습니다.
+
+His father built a large construction company, so the family didn't need anything.
+그의 아버지가 거대한 건설 회사를 지었고, 따라서 그의 가족에게는 필요한 것이 없었습니다.
+
+After finishing a good school, Sasha put his parents in front of the fact: he will build his own life and refuses financial support of his parents.
+괜찮은 학교를 졸업한 후, 사샤는 그의 부모님께 뜻을 전달했습니다: 그는 스스로의 삶을 지어나갈 것이고 부모님의 재정적 지원을 거부할 것이라는 의견이었습니다.
+
+Game interface changes
+게임 인터페이스의 변경
+· Added animations between scenes
+· 장면 사이에 애니메이션을 넣었습니다
+
+Improved optimization
+나아진 최적화
+
+· Solved optimization problems
+· 최적화 문제를 해결했습니다
+
+Closing "survival" mode. developing "career" mode
+"생존" 모드를 닫습니다. "직업"모드를 개발 중입니다.
+· We decided to remove the survival mode. In the upcoming update, a new mode will appear - a career mode for each of the characters
+· 우리는 생존 모드를 없애기로 결정했습니다. 다가오는 업데이트에, 새로운 모드가 등장할 것입니다 - 각 캐릭터를 위한 직업 모드.
+
+BACK
