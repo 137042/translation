@@ -9,7 +9,7 @@ Sell useless products at exorbitant prices and get 5% to monthly income.
 
 Dark Deeds
 From time to time, you don't have to do business very honestly. Happiness with a probability of 1/2 either increases by 15% or falls by 15%.
-때때로, 당신은 사업을 할 때 매우 솔직할 필요가 없습니다. 행복도가 50% 확률로 15% 증가하거나 15% 감소합니다.
+때때로, 당신은 사업을 몹시 솔직하게 할 필요는 없습니다. 50%의 확률의 행복은 15% 증가하거나 15% 감소합니다.
 
 Alexander was born in a family of a successful businessman.
 알렉산더는 성공적인 사업가의 가족에서 태어났습니다.
