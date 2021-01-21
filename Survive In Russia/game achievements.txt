@@ -1,3 +1,6 @@
+ACHIEVEMENTS
+업적
+
 A new beginning? / Get a bad ending for a criminal.
 새로운 시작? / 범죄자로 나쁜 엔딩을 보십시오.
 
@@ -36,3 +39,6 @@ Prepared to Russia / Complete Survival mode.
 
 End of story / Get any of the endings in storyline.
 이야기의 끝 / 스토리라인의 어떤 엔딩이라도 보십시오.
+
+BACK
+돌아가기
