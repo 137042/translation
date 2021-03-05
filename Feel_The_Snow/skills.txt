@@ -1,0 +1,66 @@
+﻿Elusive Rush
+Concussive Blow
+Wind Blade
+Wrath
+Sword Mastery
+Shield Mastery
+Arrow Strike
+Trap
+Five-way Shot
+Owl Taming
+Bow Mastery
+Arrow Mastery
+Ice Ball
+Ice Spikes
+Ice Barrier
+Ice Elemental
+Magic Mastery
+Mana Regeneration
+Fireball
+Flame Ground
+Breathe Fire
+Fire Elemental
+The character leaps forward, slashing everything in their path.
+Momentarily throws the target into a state of shock.
+Throws blades of wind, cutting down your enemies.
+After three successful attacks, the next skill used will deal increased damage.
+Increases damage with swords.
+Increases your defense and reduces stamina costs.
+Stores energy in an arrow, increasing its speed and combat power.
+Sets a trap, catching a target when triggered.
+Launches 5 arrows at once.
+Tames a feathered helper with sharp claws.
+Increases damage with bows.
+Adds a chance of a lucky shot, which does not spend arrows.
+Stores energy to create an ice ball that inflicts damage and reduces enemies' movement speed.
+Makes ice spikes sprout out in a line to inflict damage, slowing enemies' movement speed.
+Surrounds the user in a barrier made of ice shards that inflict damage upon contact with an enemy.
+Creates an elemental that attacks nearby enemies.
+Increases the damage of ice magic attacks.
+Increases mana crystals regeneration rate.
+Stores energy to throw fireball.
+Burns your feet creating a path of flame.
+Unleashes a breath of four fireballs.
+Creates an elemental that attacks nearby enemies.
+Increases damage of fire magic based attacks.
+Increases mana crystals regeneration rate.
+Backstab
+Flash of Speed
+Knife Throwing
+Merciless Whirlwind
+The character moves behind an enemy's back and strikes a powerful blow.
+The character instantly moves backwards, leaving an illusion that distracts enemies.
+Throws knives that can damage enemies at a distance.
+A series of strikes that deal high damage.
+Stomach Power
+Cauldron
+Raging Bull
+Living Cauldron
+Diet
+Unique Dishes
+Creates a shockwave by slamming the character's stomach against the ground. Enemies hit by the shockwave will be momentarily stunned.
+Places a cauldron to make top Chef dishes.
+Increases Tony's attack speed and power.
+Summons a cauldron to attack nearby foes.
+Reduces Tony's hunger.
+Increases buff time of chef Tony's dishes by one minute per skill level.

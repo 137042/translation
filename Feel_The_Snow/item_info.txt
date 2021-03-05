@@ -1,0 +1,42 @@
+﻿Can be used as a point of revival.
+Allows to dismantle structures.
+Allows to dismantle floors and roofs.
+Can be used as a fuel for a campfire or a lamp.
+This horn has a strange effect on some birds.
+You can put it on a table.
+Used for resource extraction.
+If it is active, you can open a portal above it by using a Rune of Teleportation.
+Opens a portal to an active Teleport Stone.
+Plants sown here grow twice as fast.
+Increases maximum mana by 1. 
+Protects from cold.
+Can be filled with fuel.
+Can be used to cook meals and to dry herbs.
+Having a rest at a fire would be beneficial for your health.
+Having a rest at a fire would be beneficial for your health.
+Having a rest at a fire would be beneficial for your health.
+Protects from heat.
+Use to revive allies who have been knocked out in battle.
+Increases movement speed.
+Dealing damage to all nearby enemies when the character takes damage.
+Restores 3 hp as the character attacks.
+Allows to dodge the attack moving the character away from the enemy.
+Increases dash distance.
+Increases the amount of coins by 10 every 10 seconds.
+Allows to dodge an attack with a 1 to 4 chance.
+Gives 25 experience every 10 seconds.
+Makes you turn into a bat while dash dealing damage to enemies.
+Any of your attacks stun the enemy.
+Raise minions from dead enemies.
+Cooldown: 10 seconds
+Calls the merchant at night.
+Absorbs toxic gasses from air.
+Durability can be restored with ice.
+Allows to reset your skill points.
+Effect does not stack.
+Food:
+Place nearby fire to hatch a Slime.
+Collecting liquid from nearby Slimes which can be bought in Iron Ville.
+Fed up Slimes brings twice as many resources.
+Range: 3 cells
+Increases pet level by 1.

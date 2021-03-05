@@ -1,0 +1,286 @@
+﻿Play
+Options
+Exit
+Graphics
+Sound
+Controls
+Language
+Back
+Host Server
+Join Game
+Create
+Delete
+Your name:
+Max FPS:
+Show FPS:
+Shadows:
+VSync:
+Screen mode:
+Zoom:
+UI Zoom:
+Enabled
+Disabled
+Apply
+Default
+Music:
+SFX:
+Ambient:
+Character Select
+Annie
+Willie
+Inventory
+Craft
+Skills
+Journal
+Quit to main menu
+Quit Game
+Single Player
+Multiplayer
+Map
+On Map
+No quests available.
+No recipes available.
+Buy
+Toys Collection
+Count: 
+Price: 
+Sell
+Result:
+Ingredients:
+Create
+Required: 
+Have: 
+You opened the door.
+You died!
+Respawn
+Great Slime
+Knigness
+Ancient Machine
+Day:
+Durability:
+Repair
+Fiery
+Merchant
+Health
+Stamina
+Experience
+Mana
+Hunger
+Temperature
+You
+Quest
+Dark Zone
+You can't build near the settlement!
+Mana cost:
+Fight
+Tools
+Materials
+Hats
+Potions
+Food
+Сonstructions
+You can't use it here.
+You need an active Teleport Stone.
+Are you sure?
+Yes
+No
+Slot
+Workbench
+Anvil
+Loom
+Furnace
+Alchemical Table
+Cauldron
+Check the requirements of the recipe.
+Skill points:
+Your inventory is full.
+You need a sword.
+You need a bow.
+You need arrows.
+Not enough mana.
+Coming soon
+Your toys:
+Bunny (Healing +5)
+Nightmare (Attack +2)
+Pirate (Sell +5)
+Select
+Creating world progress:
+Fail!
+This portal doesn't work.
+Portal
+Snow Ville
+Todolf House
+Iron Ville
+Attack:
+Defense:
+Health:
+Health regeneration:
+Mana:
+Mana regeneration:
+Restores hunger points:
+Temperature:
+Slot:
+Right hand
+Left hand
+Two-hand
+Body
+Accessory
+Head
+Melee attack:
+Range attack:
+Magic attack:
+You've unlocked a new character!
+Credits
+Can be used three times in a row.
+No servers found.
+Reset
+Up:
+Down:
+Left:
+Right:
+Use/Talk:
+Attack:
+Run:
+Dash:
+Block/Dodge:
+Share items:
+Chat:
+Quick slot
+Сurrently in use.
+Not permitted.
+Connect
+Connecting
+Final preparations...
+Poisoning
+Battle firefly pet
+Increased speed
+Health Regeneration
+fullscreen
+borderless 1
+borderless 2
+Quick Slot Scroll:
+on
+off
+Attack in cursor direction:
+Type:
+active
+passive
+Minimap
+Cooking on a fire
+Most of the food can be cooked on a fire. Press Left Click on an item then drag it to the active fire and press Left Click again when you see crosshair. The same way you may use inflammable material to start and maintain a fire.
+Attack with a weapon
+To attack with a weapon drag it to quick slots (at the bottom of the screen) from your inventory. Use a mouse wheel to scroll quick slots pointer on the weapon you need. Press Left Click to attack with a chosen weapon. Attack function can be also used with a hotkey. The standard hotkey for attack is "F". All standard hotkeys can be changed in the "Controls" menu.
+Skills
+To use a skill drag it to quick slots (at the bottom of the screen) from a skills tree. Use a mouse wheel to scroll quick slots pointer on the skill you need. Press Left Click to attack with a chosen skill. Skills can be also used with hotkeys. All standard hotkeys can be changed in the "Controls" menu.
+Building
+Right Click on the desired construction element and set it on the cleared in advance area. Use a mouse wheel to rotate the construction or to scroll different skins. Press Left Click to set the building.
+Inventory
+To divide items, you must hover your cursor on the item you need in your inventory and press "CTRL + Left Click". To seperate one unit move the selected item to an empty slot and press "CTRL + Left Click".
+Help
+Build skin up
+Build skin down
+Searching servers
+No servers found
+Server name
+Day
+Players
+Ping
+Servers found:
+Connect
+Connect to a friend
+Public servers
+Server settings
+Name:
+Password:
+No
+Type:
+friends only
+public
+Next
+Via Steam
+LAN via IP
+Incorrect password
+Enter password:
+Player list
+Show player names
+Ban
+Clear banlist
+Players:
+windowed
+Ability:
+Level:
+Right click to remove pet.
+Extra inventory slots.
++1 to defense per level. 
+Repair equipment.
++1 to health regeneration per lvl.
+Growie
+Tony
+Alice
+Watermelon juice
+Banana juice
+Coconut juice
+Pineapple juice
+Hunger:
+Attack +
+You сannot equip this weapon.
+Bear (M. Attack +5)
+Close
+Sunglade
+Nameless Maiden
+Diamond Machine
+Island of the Damned
+Pirat
+Glacier
+Do you wish to accept these changes?
+Cancel
+Difficulty
+Skill tree
+Quick resurrection of an ally
+Strong
+Does not use bows
+Loves to eat
+Pretty boy
+Fragile
+Poor appetite
+Not susceptible to temperature changes
+Can not stand low temperatures
+Swordsman
+Archer
+Cook
+Fire mage
+Ice mage
+Rogue
+Earth mage
+You need an Ice Cream Ball.
+Waffle Iron
+Quickbar group 1:
+Quickbar group 2:
+ - Enable gamepad
+ - Learn new recipe
+ - Use
+ - Take
+ - Exit
+ - Select
+or
+- Add to quickbar
+- Take half
+- Put
+- Put one item
+- Throw out
+- Apply
+- Reset
+- More
+- Less
+- Max
+Remove pet:
+ - Respawn
+Add to the fire
+ - Move to inventory
+ - Move to chest
+Show help:
+Stamina regeneration:
+No place in inventory to unequip shield.
+Death Poison
+Nightmares
+Nightmare
