@@ -1,60 +1,120 @@
-﻿Visit The Old Man in the survived house.
+Visit The Old Man in the survived house.
+살아남은 집에서 노인을 만나세요.
 Prepare for the night.
+밤을 대비하세요.
 Read the mysterious note.
+신비한 쪽지를 읽으세요.
 Talk to The Old Man.
+노인과 대화하세요.
 Go for firewood.
+땔감을 찾아오세요.
 Find The Witch.
+마녀를 찾으세요.
 Find the black obelisk.
+검정 오벨리스크를 찾으세요.
 Take the scroll to The Witch.
+마녀에게 두루마리를 가져다 주세요.
 Get an egg of Groh.
+그로의 알 하나를 얻으세요.
 Take an egg of Groh to The Witch.
+마녀에게 그로의 알을 가져다 주세요.
 Follow the traces to find the Slime.
+슬라임의 흔적을 따라가세요.
 Visit the rescued citizen.
+구조된 시민을 만나세요.
 Talk to Joe.
+조와 대화하세요.
 Find Joe's caravan.
+조의 운반차를 찾으세요.
 Find the bags in Goblin Camp.
+고블린 캠프의 가방들을 찾으세요.
 Return the goods to Joe.
+조에게 상품들을 돌려주세요.
 Find Todolf in the cave.
+동굴에서 토볼프를 만나세요.
 Wool for Todolf.
+토돌프를 위한 양모.
 Find The Shaman.
+주술사를 찾으세요.
 Get mushroom caps.
+버섯 모자를 얻으세요.
 Enter the circle.
+무리에 합류하세요.
 Escape the trap.
+함정에서 탈출하세요.
 Come into the portal.
+포탈로 들어오세요.
 Kill the queen Knigness.
+나이니스 여왕을 죽이세요.
 Visit the rescued citizen.
+구조된 시민을 만나세요.
 Get Tantalum ore.
+탄탈 광석을 얻으세요.
 Use a mechanical owl in Iron Ville.
+쇳덩이 마을에서 기계 올빼미를 사용하세요.
 Find Markans Camp.
+마르칸 캠프를 찾으세요.
 Take the spare parts to Iron Ville.
+쇳덩이 마을에 예비 부품을 가져다 주세요.
 Find the main camp of Markans.
+마르칸의 중심 캠프를 찾으세요.
 Find The Ancient Machine.
+고대 기계를 찾으세요.
 Ashley's Invitation
+애슐리의 초대
 Cooking with Ashley
+애슐리와 함께하는 요리
 Banana-fruit mix
+바나나-과일 모음
 Return home
+귀가
 Meet the captain
+수장 만나기
 Cold news
+차가운 소식
 Delivery of a cold cube
+차가운 큐브 배달
 Energetic deficiency
+에너지 부족
 An unusual obstacle
+범상치않은 장애물
 Meeting in the park
+공원에서의 만남
 Goldwine Park
+금빛덩굴 공원
 Ready to sail
 Explore The Island of the Damned
+저주받은 섬 탐험하기
 Disco in the graveyard
+묘지 디스코
 In a crowd
+군중 속에서
 Kissing spot
+키-쓰 스팟
+// 번역을 대체 어떻게 해야하는지 감도 안옵니다
 Ice cream for Lily
+릴리를 위한 아이스크림
 Go back to Death
+죽음으로 돌아가기
 Big Sam
+빅 샘
 Wagons and food
+수레와 음식
 Go back to Big Sam
+빅샘에게 돌아가기
 Ruins
+폐허
 Go back to Death
+죽음으로 돌아가기
 Sacred source
+신성한 근원
 Get a weapon
+무기 얻기
 Back to death, again
+또 다시, 죽음으로
 The last fight!
+마지막 싸움!
 Talk to Joe
+조와 대화하기
 What happened to the old man?
+노인에게 무슨 일이?
