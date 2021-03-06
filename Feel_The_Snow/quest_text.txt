@@ -29,47 +29,92 @@ The goods that Joe ordered hasn't come yet. Joe asked you to take care of this.
 Go to the Goblin Camp. Your goal - to find the bags that were stolen by Goblins.
 고블린 캠프로 가세요. 당신의 목표는 고블린들에게 도난당한 가방을 찾는 거에요.
 Return the stolen bags to the owner. He is waiting for you in his candy store.
+도난당한 가방을 주인에게 돌려주세요. 그는 그의 사탕 상점에서 당신을 기다리고 있어요.
 You need to find a dwarf Todolf's hut, which is located in the Cave of Ringing Wind.
+노래하는 바람의 동굴 속에 위치한 드워프 토돌프의 오두막을 찾으세요.
 Todolf gave you instructions. Bring him 5 units of wool.
+토돌프가 지시를 내렸어요. 양모 5개를 가져다주세요.
 Find The Shaman in the Cave of Ringing Wind to the East of Todolf's hut.
+노래하는 바람의 동굴 속에서 토돌프의 오두막 서쪽으로 가서 주술사를 찾으세요.
 Bring 10 units of Brilling caps to the Shaman. They can be found in the eastern part of the cave. You're close if you hear an odd popping sound.
+주술사에게 브릴링 모자 10개를 가져다주세요. 동굴의 동부에서 발견할 수 있어요. 가까워지면 통통 튀는 이상한 소리를 들을 수 있어요.
 You have to enter the magic circle.
+마법 서클에 가입해야 해요.
 You are trapped in a cage. Find a way out of it.
+동굴의 함정에 빠졌어요. 나갈 방법을 찾으세요.
 Use the portal that leads to the chamber of Knigness.
+나이니스의 방으로 이끄는 포탈을 이용하세요.
 You got a difficult task - to beat the very queen Knigness.
+나이니스 유일 여왕을 상대하세요.
 You saved a villager. He is waiting for you in his forge.
+주민을 구했어요. 그는 그의 대장간에서 당신을 기다리고 있어요.
 Get tantalum ore. Roland must have something that can help you.
+탄탈 광석을 얻으세요. 롤란드는 당신을 도울 수 있는 뭔가를 가지고 있을거에요.
 Find Mechanical Owl in Iron Ville and send Roland a sample of Tantalum.
+쇳덩이 마을의 기계 올빼미를 찾아서 탄탈의 샘플을 롤란드에게 보내세요.
 Find the Camp where Markans took the spare parts.
+마르칸이 예비 부품을 가져간 캠프를 찾으세요.
 You found spare parts. Now, return them to the robots of Iron Ville.
+예비 부품을 찾았어요. 이제 쇳덩이 마을의 로봇들에게 그것들을 돌려주세요.
 You have to find the main camp of Markans and stop the production of weapons.
+마르칸의 중심 캠프를 찾아서 무기 생산을 막아야 해요.
 Your goal – The Ancient Machine. It is the one behind the production of weapons. Find it and stop it.
+당신의 목표인 고대 기계가 무기 생산의 배후에요. 찾아서 막으세요.
 Accept Ashley's invitation to visit her in dendroids' village.
+수목상 마을의 그녀에게 방문하기 위해 애슐리의 초대에 응하세요.
 Find Ashley and help her prepare a Banana-fruit mix.
+애슐리를 찾아서 바나나-과일 모듬을 준비하는걸 도우세요.
 Collect 10 carrots and go for bananas.
+당근 10개를 모으고 바나나도 얻으세요.
 Get back to Ashley's house.
+애슐리의 집으로 돌아가세요.
 Talk to Captain Edward, "The Wooden Leg".
+"나무다리", 에드워드 수장과 대화하세요.
 Find out what supports large glacier with cold.
+
 Bring the cold cube to Edward The Wooden Leg.
+나무다리 에드워드에게 차가운 큐브를 가져다주세요.
 Find the cube of energy in GoldVine Park.
-Need to find out from Ashley if she can help us with a huge vine
+금빛덩굴 공원에서 에너지 큐브를 찾으세요.
+Need to find out from Ashley if she can help us with a huge vine.
+애슐릭 거대한 덩굴에 관해 도움을 줄 수 있는지 알아내세요.
 Meet with Ashley at the huge vine on the next day.
+다음 날 거대한 덩굴 앞에서 애슐리를 만나세요.
 Explore the territory of GoldVine Park.
+금빛덩굴 공원 영토를 탐사하세요.
 Bring the cube of energy to Captain Edward the Wooden Leg.
+나무다리 에드워드 수장에게 에너지 큐브를 가져다주세요.
 When you got to the island you didn't know where to start and made up your mind to look around.
-Check out the disco party at the graveyard
+섬에 도착하니 어디서부터 시작해야할지 모르겠어서 우선 돌아보기로 결정했어요.
+Check out the disco party at the graveyard.
+묘지의 디스코 파티를 확인해보세요.
 So many monsters, so much dancing! Surely one of them is Jonathan...
+많은 몬스터, 많은 춤! 저들 중 하나는 조나단일 것 같아요...
 Seek out Jonathan at the graveyard.
+묘지에서 조나단을 찾아내세요.
 Find the ice cream store and buy an ice cream for Lily.
+아이스크림 상점을 찾아서 릴리에게 아이스크림을 사주세요.
 Return to death, and find a way into the abyss.
+죽음으로 돌아가서, 심연으로 들어갈 방법을 찾으세요.
 Death has asked you to find Big Sam, and find out why he's turned on him.
+죽음이 당신에게 빅 샘을 찾아서 자신을 켠 이유를 알아내달라고 요청했어요.
 Find out what went wrong with the tracks, so that food deliveries can be restored.
+다시 음식을 배달할 수 있도록, 길에 무슨 문제가 있는지 알아내세요.
 Food supplies are coming through again – tell Big Sam the good news!
+음식 공급이 돌아왔어요 - 빅 샘에게 좋은 소식을 전하세요!
 Rumour says the ruins are at a secret camp. Go check it out.
+폐허가 비밀 캠프라는 소문이 있어요. 확인해보세요.
 Return to death, and update him on Big Sam.
+죽음으로 돌아가서, 빅 샘에 그를 갱신하세요.
 Imbue your weapon with the power of the sacred source!
+신성한 근원의 힘을 당신의 무기에 불어넣으세요!
 Dip your weapon in the holy source to defeat the coming darkness.
+다가오는 어둠에 맞서기 위해 신성한 근원 속에 당신의 무기를 담그세요.
 You received holy weapon, now is the time to fight!
+신성한 무기를 받았으니, 싸울 시간이에요!
 The darkness is coming – prepare yourself!
+어둠이 다가와요 - 준비하세요!
 I feel strange, I have to talk to Joe to refresh my head.
+기분이 이상해요, 머리를 환기시키기 위해 조와 대화해야겠어요.
 Joe said that grandfather died many years ago, this cannot be truth.
+조는 할아버지가 몇 년전에 죽었다고 말하네요, 사실일리 없어요.
