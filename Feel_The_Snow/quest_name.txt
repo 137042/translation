@@ -21,7 +21,7 @@ Take an egg of Groh to The Witch.
 Follow the traces to find the Slime.
 슬라임의 흔적을 따라가세요.
 Visit the rescued citizen.
-구조된 시민을 만나세요.
+구조된 주민을 만나세요.
 Talk to Joe.
 조와 대화하세요.
 Find Joe's caravan.
@@ -47,7 +47,7 @@ Come into the portal.
 Kill the queen Knigness.
 나이니스 여왕을 죽이세요.
 Visit the rescued citizen.
-구조된 시민을 만나세요.
+구조된 주민을 만나세요.
 Get Tantalum ore.
 탄탈 광석을 얻으세요.
 Use a mechanical owl in Iron Ville.
