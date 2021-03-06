@@ -1,18 +1,33 @@
-﻿Ask the old man about what happened in the village. He is waiting for you in the survived house.
+Ask the old man about what happened in the village. He is waiting for you in the survived house.
+노인에게 마을에 무슨 일이 발생한건지 물어보세요. 그는 살아남은 집에서 당신을 기다리고 있어요.
 The old man told you about the terrible creatures of the night - nightmares. Make weapons, you are definitely going to need it at night.
+노인은 끔찍한 밤의 생명체인 악몽에 관해서 말해줬어요. 무기를 만드세요, 밤이 되면 무기가 필요할거에요.
 You found a strange note while fighting with nightmares. Read it.
+악몽과 싸우는 중 이상한 쪽지를 발견했어요. 읽으세요.
 The witch has something to do with what happened in the village. Ask the old man where to find her.
+마을에서 발생한 일과 마녀가 연관 있어 보여요. 노인에게 그녀를 어디서 찾을 수 있는지 물어보세요.
 The old man asked you to fetch firewood. Bring him 10 units of wood.
+노인은 당신에게 땔감을 가져와달라고 요청했어요. 나무 10개를 가져다주세요.
 The Witch House is marked on the map. You need to get there.
+지도에 노인의 집이 표시되었어요. 그곳으로 가야해요.
 The black obelisk is situated in the snowless lands. Find it.
+검정 오벨리스크는 눈발 없는 지역에 있어요. 찾으세요.
 You found a magic scroll. Take it to the witch.
+마법 두루마리를 찾았어요. 마녀에게 가져다주세요.
 To use the magic scroll you need an egg of Groh.
+마법 두루마리를 사용하려면 그로의 알이 하나 필요해요.
 You found an egg of Groh. Now take it to the Witch.
+그로의 알을 찾았어요. 이제 그걸 마녀에게 가져다주세요.
 A huge Slime left many traces. Find it.
+거대한 슬라임이 흔적을 많이 남겼어요. 찾으세요.
 You saved a villager. He is waiting for you in his shop. And he is not alone.
+주민을 구조했어요. 그는 그의 상점에서 당신을 기다리고 있어요. 그리고 그는 홀로 있지 않네요.
 You have to continue looking for Nightmares. Maybe Joe will help you?
+당신은 악몽 찾기를 계속 해야만 해요. 조가 당신을 도울수도 있겠죠?
 The goods that Joe ordered hasn't come yet. Joe asked you to take care of this.
+조가 주문한 상품들이 아직 도착하지 않았어요. 조가 당신에게 일처리를 요청했어요.
 Go to the Goblin Camp. Your goal - to find the bags that were stolen by Goblins.
+고블린 캠프로 가세요. 당신의 목표는 고블린들에게 도난당한 가방을 찾는 거에요.
 Return the stolen bags to the owner. He is waiting for you in his candy store.
 You need to find a dwarf Todolf's hut, which is located in the Cave of Ringing Wind.
 Todolf gave you instructions. Bring him 5 units of wool.
