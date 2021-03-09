@@ -5,9 +5,9 @@ Allows to dismantle structures.
 Allows to dismantle floors and roofs.
 바닥과 천장을 해체할 수 있어요.
 Can be used as a fuel for a campfire or a lamp.
-화톳불이나 등에 연료로 사용할 수 있어요.
+화톳불이나 램프에 연료로 사용할 수 있어요.
 This horn has a strange effect on some birds.
-몇몇 새들에게 이상한 효과를 보여요.
+이 뿔은 몇몇 새들에게 이상한 효과를 보여요.
 You can put it on a table.
 탁자 위에 둘 수 있어요.
 Used for resource extraction.
@@ -18,13 +18,12 @@ Opens a portal to an active Teleport Stone.
 활성화된 순간이동 비석으로 포탈을 열어요.
 Plants sown here grow twice as fast.
 여기 있는 식물은 두 배로 빠르게 자라요.
-// 여기 있는 -> 근처의?
 Increases maximum mana by 1.
 최대 마나를 1 증가시켜요.
 Protects from cold.
-추위를 보호해요.
+추위로부터 보호해요.
 Can be filled with fuel.
-연료로 채워질 수 있어요.
+연료로써 쓸 수 있어요.
 Can be used to cook meals and to dry herbs.
 식사를 조리하거나 약초를 말리는 데에 쓸 수 있어요.
 Having a rest at a fire would be beneficial for your health.
@@ -34,7 +33,7 @@ Having a rest at a fire would be beneficial for your health.
 Having a rest at a fire would be beneficial for your health.
 불 옆에서 휴식하는 건 건강에 이득이 될 거에요.
 Protects from heat.
-열기를 보호해요.
+열기로부터 보호해요.
 Use to revive allies who have been knocked out in battle.
 전투에서 쓰러진 아군을 부활시키는 데에 사용해요.
 Increases movement speed.
@@ -44,7 +43,7 @@ Dealing damage to all nearby enemies when the character takes damage.
 Restores 3 hp as the character attacks.
 캐릭터가 공격할 때마다 3 hp를 회복해요.
 Allows to dodge the attack moving the character away from the enemy.
-적으로부터 캐릭터가 공격을 움직여서 회피할 수 있어요.
+적으로부터 캐릭터가 움직여서 공격을 회피할 수 있어요.
 Increases dash distance.
 돌진 거리가 늘어나요.
 Increases the amount of coins by 10 every 10 seconds.
@@ -56,17 +55,30 @@ Gives 25 experience every 10 seconds.
 Makes you turn into a bat while dash dealing damage to enemies.
 적에게 타격 돌진을 할 때면 당신이 박쥐로 변하게 해요.
 Any of your attacks stun the enemy.
-당신의 모든 공격이 적을 마비시켜요. // 뭔가 구림
+당신의 모든 공격은 적을 마비시켜요. // 뭔가 구림
 Raise minions from dead enemies.
+죽은 적들에서부터 수하를 생성해요.
 Cooldown: 10 seconds
+쿨다운: 10초
 Calls the merchant at night.
+밤에 상인을 호출해요.
 Absorbs toxic gasses from air.
+공기 중 독가스를 없애요.
 Durability can be restored with ice.
+얼음으로 내구도가 회복되어요.
 Allows to reset your skill points.
+스킬 포인트를 초기화할 수 있어요.
 Effect does not stack.
+효과가 중첩되지 않아요.
 Food:
+음식:
 Place nearby fire to hatch a Slime.
+슬라임 부화를 위해 불 근처에 두세요.
 Collecting liquid from nearby Slimes which can be bought in Iron Ville.
+쇳덩이 마을에서 살 수 있는 슬라임 근처에서 수집된 액체.
 Fed up Slimes brings twice as many resources.
+잘 먹은 슬라임은 자원을 두 배 더 많이 가져와요.
 Range: 3 cells
+범위: 3칸
 Increases pet level by 1.
+펫 레벨을 1만큼 증가시켜요.
