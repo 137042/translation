@@ -1,117 +1,231 @@
-﻿Green Herb
+Green Herb
+녹색 약초
 Marshmallow
+마시멜로
 Axe
+도끼
 Tree Sapling
+묘목
 Wood
+나무
 Wooden Sword
+나무 검
 Wooden Shield
+나무 방패
 Red Ring
+빨간 반지
 Blue Ring
+파란 반지
 Warm Hat
+따뜻한 모자
 Wooden Armor
+나무 갑옷
 Recipe: 
+제작법:
 Cloth
+천
 Rope
+밧줄
 Roasted Marshmallow
+구운 마시멜로
 Alchemical Table
+연금술 탁자
 Small Health Potion
+작은 회복 포션
 Small Mana Potion
+작은 마나 포션
 Pickaxe
+곡괭이
 Stone
+돌멩이
 Ice Rose
+얼음 장미
 Wood Flooring
+나무 바닥
 Wooden Wall
+나무 벽
 Wooden Roof
+나무 천장
 Wooden Door
+나무 문
 Wooden Window
+나무 창문
 Fire Pit
+불 구덩이
 Bed
+침대
 Anvil
+모루
 Workbench
+작업대
 Painting
+그림
 Loom
+직조기
 Wooden Table
+나무 탁자
 Furnace
+화로
 Flint
+부싯돌
 Hammer
+망치
 Saw
+톱
 Raw Meat
+날고기
 Wooden Bow
+나무 활
 Fireplace
+난로
 Lamp
+램프
 Twigs
+잔가지
 Cauldron
+가마솥
 Wooden Stick
+나뭇가지
 Roasted Meat
+구운 고기
 Mucus
+점액
 Mushroom
+버섯
 Lollipop
+막대사탕
 Stone Sword
+돌 검
 Grass Seeds
+잔디 씨앗
 Marshmallow Bush
+마시멜로 덤불
 Ice Rose Seeds
+얼음 장미 씨앗
 Sapling Seeds
+묘목 씨앗
 Mushroom Spores
+버섯 포자
 Lollipop Bush Seeds
+막대사탕 덤불 씨앗
 Shovel
+삽
 Dungeon Tree Sapling
+던전 나무 묘목
 Iron Ore
+철 광석
 Chest
+상자
 Feather
+날개
 Horn
+뿔
 Ice Drill
+얼음 드릴
 Fishing Rod
+낚싯대
 Candy Cane
+지팡이 사탕
 Arrow
+화살
 Fence
+울타리
 Fence Gate
+울타리 문
 Herring
+청어
 Salmon
+연어
 Pink Trout
+분홍 송어
 Lollipop Carp
+막대사탕 잉어
 Purple Swede
+보라색 스웨드
 Note (Quest Item)
+쪽지 (퀘스트 아이템)
 Dry Herb
+마른 약초
 Dry Grass Seeds
+마른 약초 씨앗
 Scroll (Quest Item)
+두루마리 (퀘스트 아이템)
 Groh's egg
+그로의 알
 Large Candy
+커다란 사탕
 Wool
+양모
 Brilling Сap
+브릴링 모자
 Iron Sword
+철감
 Tantalum Sword
+탄탈 검
 Candle
+양초
 Campfire
+캠프파이어
 Roasted Swede
+구운 스웨드
 Roasted Egg
+구운 알
 Truffle
+송로 버섯
 Roasted Truffle
+구운 송로
 Snail Meat
+달팽이 고기
 Roasted Snail Meat
+구운 달팽이 고기
 Snow
+눈
 Ice
+얼음
 Mechanical Tree Sapling
+기계 나무 묘목
 Screw-nut
+나사-너트
 Screw-nut Sapling
+나사-너트 묘목
 Screw
+나사
 Tantalum Ore
+탄탈 광석
 Bomb
+폭탄
 Stone Armor
+돌 갑옷
 Iron Armor
+철 갑옷
 Tantalum Armor
+탄탈 갑옷
 Stone Shield
+돌 방패
 Iron Shield
+철 방패
 Tantalum Shield
+탄탈 방패
 Stone Bow
+돌 활
 Iron Bow
+철 활
 Tantalum Bow
+탄탈 활
 Oily Liquid
+기름기 있는 액체
 Tantalum Hilt
+탄탈 자루
 Health Potion
+회복 포션
 Mana Potion
+마나 포션
 Great Health Potion
+큰 회복 포션
 Great Mana Potion
+큰 마나 포션
 Goulash with sauce
+소스 곁들인 굴라시
 Baked ham
 Fish in jelly
 Fish in cream sauce
