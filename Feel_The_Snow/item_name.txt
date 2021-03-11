@@ -227,96 +227,188 @@ Great Mana Potion
 Goulash with sauce
 소스 곁들인 굴라시
 Baked ham
+구운 햄
 Fish in jelly
+젤리 속 물고기
 Fish in cream sauce
+크림 소스 속 물고기
 Snail soup
+달팽이 수프
 Ragout of snails
+달팽이 라구
 Gas Mask
+방독면
 Elder Key
+고대 열쇠
 Mana Сrystal
+마나 수정
 Teleport Stone
+텔레포트 스톤 // ?
 Rune of Teleportation
+텔레포트 비석
 Stone Roof
+돌 지붕
 Stone Flooring
+돌 바닥
 Stone Wall
+돌 벽
 Stone Window
+돌 창문
 Eskimo
+에스키모
 Iron Ingot
+철 주괴
 Tantalum Ingot
+탄탈 주괴
 Sigma Fragment
+시그마 조각
 Garden Bed
+풀 침대
 Purple Swede Seeds
+보라색 스웨드 씨앗
 Flask
+플라스크
 Bottle
+병
 Treasure Map
+보물지도
 Hood
+후드
 Dense Texture
+빽빽한 텍스쳐 // ?
 Ice Calla
+얼음 칼라
 Ice Calla Seeds
+얼음 칼라 씨앗
 Archer Hat
+궁수 모자
 Swordman Helm
+검사 투구
 Mage Hat
+마법사 모자
 Archmage Hat
+대마법사
 Fang
+송곳니
 Hog Skin
+돼지 가죽
 Goblin Skin
+고블린 가죽
 Torn Cloth
+찢긴 천
 Gear
+장비
 Metallic Shard
+금속 파편
 Diode
+다이오드
 Fire Pit (fireless)
+소화된 불 구덩이
 Fireplace (fireless)
+소화된 난로
 Roasted Herring
+구운 청어
 Roasted Salmon
+구운 연어
 Christmas tree
+크리스마스 트리
 Gift Box
+선물 상자
 Candy Roof
+사탕 지붕
 Chocolate Floor
+초콜릿 바닥
 Gingerbread Wall
+생강빵 벽
 Gingerbread Window
+생강빵 창문
 Chocolate Door
+초콜릿 문
 Christmas Sock
+크리스마스 양말
 Сookie
+쿠키
 Iron Roof
+철 지붕
 Iron Flooring
+철 바닥
 Iron Wall
+철 벽
 Iron Window
+철 창문
 Iron Door
+철 문
 Green Tree Sapling
+녹색 나무 묘목
 Sand
+모래
 Starfish
+불가사리
 Seashell
+조개
 Soft Grass Seeds
+부드러운 잔디 씨앗
 Carrot
+당근
 Carrot Seeds
+당근 씨앗
 Roasted Carrot
+구운 당근
 Summoner
+소환사
 Slime
+슬라임
 Ice pet
+얼음펫
 Robopet
+로봇펫
 Rabbit
+토끼
 Pet place
+애완동물 침대 // ?
 Pet food
+펫 음식
 Grass Wall
+잔디 벽
 Grass Roof
+잔디 지붕
 Grass Door
+잔디 문
 Grass Window
+잔디 창문
 Candy Armor
+잔디 갑옷
 Candy Bow
+잔디 활
 Candy Sword
+잔디 검
 Candy Shield
+잔디 방패
 Soronite Armor
+소로나이트 갑옷
 Soronite Bow
+소로나이트 활
 Soronite Sword
+소로나이트 검
 Soronite Shield
+소로나이트 방패
 Watermelon
+수박
 Pineapple
+파인애플
 Banana
+바나나
 Coconut
+코코넛
 Watermelon Juice
+수박 주스
 Pineapple Juice
+파인애플 주스
 Banana Juice
+바나나 주스
 Coconut Juice
+코코넛 주스
+
 Goulash with sauce
 Baked ham
 Fish in jelly
@@ -348,72 +440,137 @@ Fish in cream sauce
 Snail soup
 Ragout of snails
 Iron Chest
+철 상자
 Iron Table
+철 탁자
 Iron Bed
+철 침대
 Tantalum Axe
+탄탈 도끼
 Tantalum Pickaxe
+탄탈 곡괭이
 Tantalum Shovel
+탄탈 삽
 Carpet
+카펫
 Wooden Сandlestick
+나무 촛대
 Iron Сandlestick
+철 촛대
 Soronite Ore
+소로나이트 광석
 Soronite
+소로나이트
 Stone Ring
+돌 반지
 Crab Meat
+게살
 Roasted Crab Meat
-Conditioner
+구운 게살
+Conditione
+컨디셔너
 Ice Necklace
+철 목걸이
 Toy Closet
+인형 장롱
 Diamond
+다이아몬드
 Diamond Machine
+다이아몬드 기계
 Green Bush
+녹색 덤불
 Caramel Apple
+카라멜 사과
 Ice Cream Ball
+아이스크림 볼
 Ice Cream
+아이스크림
 Flour
+밀가루
 Milk
+우유
 Sugar
+설탕
 Wafer
+물
 Freezia Seeds
+프리지아 씨앗
 Waffle Iron
+와플 철
 Green Ring
+풀 반지
 Studded Ring
+장식 박힌 반지 // ?
 Vampire Fangs
+뱀파이어 송곳니
 Magic Boots
+마법 부츠
 Rabbit Ears
+토끼 귀
 Lucky Quarter
+행운의 석영
 Four-Leaf Clover
+네잎 클로버
 Book of Experience
+경험치 책
 Bat Ring
+박쥐 반지
 Boxing Glove
+복싱 글러브
 Necronomicon
+네크로노미콘
 Snowman's Head
+눈사람 머리
 Scroll of Rebirth
+갱생 두루마리
 Refresh accessory list
+장신구 목록 갱신
 Cloud
+구름
 Cloud
 Cloud
 Cloud
 Goetium Armor
+괴튬 갑옷
 Goetium Bow
+괴튬 활
 Goetium Sword
+괴튬 검
 Goetium Shield
+괴튬 방패
 Slime Egg
+슬라임 알
 Robo Slime Egg
+로보 슬라임 알
+
 Slime
 Robo Slime
+로보 슬라임
 Liquid Collector
+액체 수집가 // 수집기 ?
 Pet Training Book
+펫 훈련서
 Rocking Chair
+흔들 의자
 Dead Grass
+죽은 풀
 Goetium Stone
+괴튬 돌
 Bone Lamp
+뼈 전등
 Bone Chair
+뼈 의자
 Bone
+뼈
 Bone Table
+뼈 탁자
 Liquid Poison
+액상 독
 Death Poison Bottle
+치명독이 든 병
 Nail
+못 // 손톱 ?
+
 Tree Sapling
 Sapling Seeds
 Ice Cream
